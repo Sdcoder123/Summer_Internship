@@ -1,7 +1,7 @@
 # Summer_Internship
 It's a summer internship of two months where we deep drive through different cryptography analyses.
 # Cryptographic Analysis Internship at IIEST
-**IIEST (Indian Institute of Engineering Science and Technology)** is a prestigious institution known for its strong focus on engineering and technology. During my academic journey, I had the privilege of undertaking an internship at IIEST, working closely with a renowned Professor **Dr. Malay Kule sir** in the field of **cryptography**. This experience allowed me to delve into the intricacies of cryptography and gain hands-on exposure to various techniques used in this domain.
+**IIEST (Indian Institute of Engineering Science and Technology)** is a prestigious institution known for its strong focus on engineering and technology. During my academic journey, I had the privilege of undertaking an internship at IIEST, working closely with a renowned Professor **Dr. Malay Kule sir** (https://www.iiests.ac.in/IIEST/Faculty/cs-malay) in the field of **cryptography**. This experience allowed me to delve into the intricacies of cryptography and gain hands-on exposure to various techniques used in this domain.
 
 As an intern, my primary responsibility was to analyze different cryptographic techniques and evaluate their effectiveness in securing data and communication systems. I worked on several projects under the guidance of the professor, focusing on understanding the strengths and weaknesses of various encryption algorithms, hashing functions, and key management protocols. This required me to study and implement cryptographic algorithms such as **AES (Advanced Encryption Standard), RSA (Rivest-Shamir-Adleman)**
 
